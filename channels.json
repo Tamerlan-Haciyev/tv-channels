@@ -1,4 +1,10 @@
 [
-  
+  { "id": "itv", "title": "İctimai TV", "url": "https://live.itv.az/itv.m3u8", "type": "stream" },
+  { "id": "azstar", "title": "Azərstar TV", "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8", "type": "stream" },
+  { "id": "trt1", "title": "TRT 1", "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8", "type": "stream" },
+  { "id": "zvezda", "title": "Zvezda", "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8", "type": "stream" },
+  { "id": "cbc", "title": "CBC Sport", "url": "https://cbcsport.az/live/", "type": "web" },
+  { "id": "idman", "title": "İdman TV", "url": "https://idmantv.az/az", "type": "web" },
+  { "id": "euronews", "title": "Euronews RU", "url": "https://www.youtube.com/euronewsru/live", "type": "web" },
   { "id": "mirtv", "title": "MIR TV", "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8", "type": "stream" }
 ]
