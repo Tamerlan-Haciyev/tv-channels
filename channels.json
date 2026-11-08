@@ -7,5 +7,6 @@
   { "id": "idman", "title": "İdman TV", "url": "https://idmantv.az/az", "type": "web" },
   { "id": "euronews", "title": "Euronews RU", "url": "https://www.youtube.com/euronewsru/live", "type": "web" },
   { "id": "mirtv", "title": "MIR TV", "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8", "type": "stream" },
-  { "id": "aztv", "title": "AZTV", "url": "https://operativmm.az/tvs/az/stream9/stream.m3u8", "type": "stream" }
+  { "id": "aztv", "title": "AZTV", "url": "https://operativmm.az/tvs/az/stream9/stream.m3u8", "type": "stream" },
+  { "id": "atv", "title": "ATV", "url": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8", "type": "stream" }
 ]
