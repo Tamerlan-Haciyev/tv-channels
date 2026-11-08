@@ -12,4 +12,5 @@
   { "id": "xezertv", "title": "Xəzər TV", "url": "https://operativmm.az/tvs/xezer/stream/main_stream.m3u8", "type": "stream" },
   { "id": "spacetv", "title": "Space TV", "url": "https://operativmm.az/tvs/space/stream8/stream.m3u8", "type": "stream" },
   { "id": "arb", "title": "ARB", "url": "https://operativmm.az/tvs/arb/stream5/stream.m3u8", "type": "stream" },
+  { "id": "bakutv", "title": "Baku TV", "url": "https://rtmp.baku.tv/hls/bakutv_480p.m3u8", "type": "stream" },
 ]
