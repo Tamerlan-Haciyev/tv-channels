@@ -19,6 +19,5 @@
   { "id": "cbcsport", "title": "CBC Sport", "url": "https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8", "type": "stream" },
   { "id": "medeniyyettv", "title": "Mədəniyyət TV", "url": "https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoibWVkZW5peXlldCIsImlwIjoiMjEyLjQ3LjE0Ni4xIiwidWFoIjoiNTY2MGY0NTk0MzI2NTAwYSIsImlhdCI6MTc5NDEzNzIzNCwiZXhwIjoxNzk0MjIzNjM0LCJqdGkiOiJkMzE5NDMzOWFiOTRmODE2In0.x1KrX0IsBYW9v6PSP1a-w7WiJJShSrpwykjOXWU3hf8", "type": "stream" },
   { "id": "apatv", "title": "APA Tv", "url": "http://stream.apa.tv/apastream/video1_stream.m3u8", "type": "stream" },
-  { "id": "apatvWeb", "title": "APA Tv Youtube", "url": "https://www.youtube.com/watch?v=RBrvu3LG_cA", "type": "web" },
-  { "id": "hahaha", "title": "relax", "url": "https://beeg.com/-0663549742601520", "type": "web" }
+  { "id": "apatvWeb", "title": "APA Tv Youtube", "url": "https://www.youtube.com/watch?v=RBrvu3LG_cA", "type": "web" }
 ]
