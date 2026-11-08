@@ -9,5 +9,6 @@
   { "id": "mirtv", "title": "MIR TV", "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8", "type": "stream" },
   { "id": "aztv", "title": "AZTV", "url": "https://operativmm.az/tvs/az/stream9/stream.m3u8", "type": "stream" },
   { "id": "atv", "title": "ATV", "url": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8", "type": "stream" },
-  { "id": "xezertv", "title": "Xəzər TV", "url": "https://operativmm.az/tvs/xezer/stream/main_stream.m3u8", "type": "stream" }
+  { "id": "xezertv", "title": "Xəzər TV", "url": "https://operativmm.az/tvs/xezer/stream/main_stream.m3u8", "type": "stream" },
+  { "id": "spacetv", "title": "Space TV", "url": "https://operativmm.az/tvs/space/stream8/stream.m3u8", "type": "stream" }
 ]
