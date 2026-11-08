@@ -15,4 +15,6 @@
   { "id": "bakutv", "title": "Baku TV", "url": "https://rtmp.baku.tv/hls/bakutv_480p.m3u8", "type": "stream" },
   { "id": "realtv", "title": "Real TV", "url": "https://operativmm.az/tvs/realtv/stream2/stream.m3u8", "type": "stream" },
   { "id": "arb24", "title": "ARB 24", "url": "https://operativmm.az/tvs/arb24/stream/stream.m3u8", "type": "stream" },
+  { "id": "idmantv", "title": "İdman TV", "url": "https://operativmm.az/tvs/idman/stream4/stream.m3u8", "type": "stream" },
+  { "id": "cbcsport", "title": "CBC Sport", "url": "https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8", "type": "stream" },
 ]
